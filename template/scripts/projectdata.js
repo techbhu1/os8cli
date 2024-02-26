@@ -3,12 +3,12 @@
 rh = window.rh;
 model = rh.model;
 
-rh.consts('DEFAULT_TOPIC', encodeURI("#os8_cli/title_page/title_page.htm".substring(1)));
+rh.consts('DEFAULT_TOPIC', encodeURI("#os8_cli/c_about/About_This_Guide.htm".substring(1)));
 rh.consts('HOME_FILEPATH', encodeURI("index.html"));
 rh.consts('START_FILEPATH', encodeURI('index.html'));
-rh.consts('HELP_ID', 'B5D9A718-059A-4FF6-8611-5AF1CF42EB6A' || 'preview');
+rh.consts('HELP_ID', '7CB42048-B579-4545-8287-46B30ED0A346' || 'preview');
 rh.consts('LNG_STOP_WORDS', ["a", "about", "after", "against", "all", "also", "among", "an", "and", "are", "as", "at", "be", "became", "because", "been", "between", "but", "by", "can", "come", "do", "during", "each", "early", "for", "form", "found", "from", "had", "has", "have", "he", "her", "his", "however", "in", "include", "into", "is", "it", "its", "late", "later", "made", "many", "may", "me", "med", "more", "most", "near", "no", "non", "not", "of", "on", "only", "or", "other", "over", "several", "she", "some", "such", "than", "that", "the", "their", "then", "there", "these", "they", "this", "through", "to", "under", "until", "use", "was", "we", "were", "when", "where", "which", "who", "with", "you"]);
-rh.consts('LNG_SUBSTR_SEARCH', 0);
+rh.consts('LNG_SUBSTR_SEARCH', 1);
 
 model.publish(rh.consts('KEY_DIR'), "ltr");
 model.publish(rh.consts('KEY_LNG_NAME'), "en_US");
@@ -18,7 +18,7 @@ model.publish(rh.consts('KEY_HEADER_DEFAULT_TITLE_COLOR'), "#ffffff");
 model.publish(rh.consts('KEY_HEADER_DEFAULT_BACKGROUND_COLOR'), "#025172");
 model.publish(rh.consts('KEY_LAYOUT_DEFAULT_FONT_FAMILY'), "\"Trebuchet MS\", Arial, sans-serif");
 
-model.publish(rh.consts('KEY_HEADER_TITLE'), "AOS CLI Reference Guide");
+model.publish(rh.consts('KEY_HEADER_TITLE'), "Responsive HTML5");
 model.publish(rh.consts('KEY_HEADER_TITLE_COLOR'), "#ffffff");
 model.publish(rh.consts('KEY_HEADER_BACKGROUND_COLOR'), "#509de6");
 model.publish(rh.consts('KEY_HEADER_LOGO_PATH'), "template/Azure_blueResponsive_HTML5/logo.png");

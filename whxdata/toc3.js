@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"lanpower power\" url=\"os8_cli/c_polan/c_polan.htm\"><item name=\"2     Power over Ethernet (PoE) Commands\" url=\"os8_cli/c_polan/Power_over_Ethernet_(PoE)_Commands.htm\" /></data>";

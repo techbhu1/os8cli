@@ -19,20 +19,34 @@
  </windowlist>
  <contextmap>
  </contextmap>
- <topiclist defaulttopic="os8_cli\title_page\title_page.htm">
+ <topiclist defaulttopic="os8_cli\c_about\About_This_Guide.htm">
   <topic>os8_cli\copyright\copyright.htm
+  </topic>
+  <topic>os8_cli\copyright\Software_License_and_Copyright_Statements.htm
+  </topic>
+  <topic>os8_cli\c_about\About_This_Guide.htm
   </topic>
   <topic>os8_cli\c_about\c_about.htm
   </topic>
   <topic>os8_cli\c_esm\c_esm.htm
   </topic>
+  <topic>os8_cli\c_esm\Ethernet_Port_Commands.htm
+  </topic>
   <topic>os8_cli\c_polan\c_polan.htm
+  </topic>
+  <topic>os8_cli\c_polan\Power_over_Ethernet_(PoE)_Commands.htm
   </topic>
   <topic>os8_cli\c_srclrn\c_srclrn.htm
   </topic>
+  <topic>os8_cli\c_srclrn\Source_Learning_Commands.htm
+  </topic>
   <topic>os8_cli\c_udld\c_udld.htm
   </topic>
+  <topic>os8_cli\c_udld\UDLD_Commands.htm
+  </topic>
   <topic>os8_cli\c_vlans\c_vlans.htm
+  </topic>
+  <topic>os8_cli\c_vlans\VLAN_Management_Commands.htm
   </topic>
   <topic>os8_cli\title_page\title_page.htm
   </topic>

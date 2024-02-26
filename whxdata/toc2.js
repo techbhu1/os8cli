@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"1     Ethernet Port Commands\" url=\"os8_cli/c_esm/c_esm.htm\"><item name=\"1     Ethernet Port Commands\" url=\"os8_cli/c_esm/Ethernet_Port_Commands.htm\" /></data>";

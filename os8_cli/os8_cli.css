@@ -186,29 +186,6 @@ p.CLI_syntax_opt {
                   text-transform:none;
                   font-kerning:none;
 }
-p.CellBody {
-            margin-left:0.00pt;
-            margin-right:0.00pt;
-            margin-top:0.00pt;
-            margin-bottom:0.00pt;
-            text-align:left;
-            text-indent:0.00pt;
-            line-height:12.00pt;
-            word-spacing:0.25em;
-            hyphens:none;
-            direction:inherit;
-            color:#000000;
-            font-family:"Times New Roman";
-            font-size:10.50pt;
-            font-weight:normal;
-            font-style:normal;
-            background-color:transparent;
-            text-decoration:none;
-            letter-spacing:0.00em;
-            font-stretch:normal;
-            text-transform:none;
-            font-kerning:none;
-}
 p.CellBody_6pt_left {
                      margin-left:0.00pt;
                      margin-right:0.00pt;
@@ -346,29 +323,6 @@ p.CellBody_small {
                   font-stretch:normal;
                   text-transform:none;
                   font-kerning:normal;
-}
-p.CellHeading {
-               margin-left:0.00pt;
-               margin-right:0.00pt;
-               margin-top:0.00pt;
-               margin-bottom:0.00pt;
-               text-align:left;
-               text-indent:0.00pt;
-               line-height:12.50pt;
-               word-spacing:0.25em;
-               hyphens:none;
-               direction:inherit;
-               color:#000000;
-               font-family:"Times New Roman";
-               font-size:10.50pt;
-               font-weight:Bold;
-               font-style:normal;
-               background-color:transparent;
-               text-decoration:none;
-               letter-spacing:0.00em;
-               font-stretch:normal;
-               text-transform:none;
-               font-kerning:normal;
 }
 p.CellHeading2 {
                 margin-left:0.00pt;
@@ -532,29 +486,6 @@ p.FigureTitle {
                text-transform:none;
                font-kerning:normal;
 }
-p.Footnote {
-            margin-left:30.00pt;
-            margin-right:18.00pt;
-            margin-top:0.00pt;
-            margin-bottom:0.00pt;
-            text-align:left;
-            text-indent:-12.00pt;
-            line-height:12.00pt;
-            word-spacing:0.25em;
-            hyphens:auto;
-            direction:inherit;
-            color:#000000;
-            font-family:"Times New Roman";
-            font-size:10.00pt;
-            font-weight:normal;
-            font-style:normal;
-            background-color:transparent;
-            text-decoration:none;
-            letter-spacing:0.00em;
-            font-stretch:normal;
-            text-transform:none;
-            font-kerning:normal;
-}
 p.Header_Left_ {
                 margin-left:0.00pt;
                 margin-right:2.26pt;
@@ -577,94 +508,6 @@ p.Header_Left_ {
                 font-stretch:normal;
                 text-transform:none;
                 font-kerning:none;
-}
-p.Heading1 {
-            margin-left:0.00pt;
-            margin-right:0.00pt;
-            margin-top:14.00pt;
-            margin-bottom:6.00pt;
-            text-align:left;
-            text-indent:0.00pt;
-            line-height:16.00pt;
-            word-spacing:0.25em;
-            hyphens:auto;
-            direction:inherit;
-            color:#000000;
-            font-family:"Times New Roman";
-            font-size:14.00pt;
-            font-weight:Bold;
-            font-style:normal;
-            background-color:transparent;
-            text-decoration:none;
-            letter-spacing:0.00em;
-            font-stretch:normal;
-            text-transform:none;
-            font-kerning:normal;
-            margin-left:0.00pt;
-            margin-right:0.00pt;
-            margin-top:28.00pt;
-            margin-bottom:12.00pt;
-            text-align:left;
-            text-indent:0.00pt;
-            line-height:18.00pt;
-            word-spacing:0.25em;
-            hyphens:auto;
-            direction:inherit;
-            color:#000000;
-            font-family:"Futura Book";
-            font-size:18.00pt;
-            font-weight:Bold;
-            font-style:normal;
-            background-color:transparent;
-            text-decoration:none;
-            letter-spacing:0.00em;
-            font-stretch:normal;
-            text-transform:none;
-            font-kerning:normal;
-}
-p.Heading2 {
-            margin-left:0.00pt;
-            margin-right:0.00pt;
-            margin-top:12.00pt;
-            margin-bottom:3.00pt;
-            text-align:left;
-            text-indent:0.00pt;
-            line-height:14.00pt;
-            word-spacing:0.25em;
-            hyphens:auto;
-            direction:inherit;
-            color:#000000;
-            font-family:"Times New Roman";
-            font-size:12.00pt;
-            font-weight:Bold;
-            font-style:normal;
-            background-color:transparent;
-            text-decoration:none;
-            letter-spacing:0.00em;
-            font-stretch:normal;
-            text-transform:none;
-            font-kerning:normal;
-            margin-left:0.00pt;
-            margin-right:0.00pt;
-            margin-top:20.00pt;
-            margin-bottom:9.00pt;
-            text-align:left;
-            text-indent:0.00pt;
-            line-height:14.00pt;
-            word-spacing:0.25em;
-            hyphens:auto;
-            direction:inherit;
-            color:#000000;
-            font-family:"Futura Book";
-            font-size:14.00pt;
-            font-weight:Bold;
-            font-style:normal;
-            background-color:transparent;
-            text-decoration:none;
-            letter-spacing:0.00em;
-            font-stretch:normal;
-            text-transform:none;
-            font-kerning:normal;
 }
 p.HeadingRunIn {
                 margin-left:0.00pt;
@@ -1059,29 +902,6 @@ p.TableTitleOutput {
                     font-stretch:normal;
                     text-transform:none;
                     font-kerning:normal;
-}
-p.Title {
-         margin-left:0.00pt;
-         margin-right:0.00pt;
-         margin-top:24.00pt;
-         margin-bottom:12.00pt;
-         text-align:center;
-         text-indent:0.00pt;
-         line-height:24.00pt;
-         word-spacing:0.25em;
-         hyphens:none;
-         direction:inherit;
-         color:#000000;
-         font-family:"Times New Roman";
-         font-size:18.00pt;
-         font-weight:Bold;
-         font-style:normal;
-         background-color:transparent;
-         text-decoration:none;
-         letter-spacing:0.00em;
-         font-stretch:normal;
-         text-transform:none;
-         font-kerning:normal;
 }
 p.TitlePage {
              margin-left:0.00pt;
@@ -1568,6 +1388,29 @@ p.header_Right_ {
                  text-transform:none;
                  font-kerning:none;
 }
+p.heading1 {
+            margin-left:0.00pt;
+            margin-right:0.00pt;
+            margin-top:28.00pt;
+            margin-bottom:12.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:18.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Futura Book";
+            font-size:18.00pt;
+            font-weight:Bold;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
+}
 p.heading1_about {
                   margin-left:0.00pt;
                   margin-right:0.00pt;
@@ -1590,6 +1433,29 @@ p.heading1_about {
                   font-stretch:normal;
                   text-transform:none;
                   font-kerning:normal;
+}
+p.heading2 {
+            margin-left:0.00pt;
+            margin-right:0.00pt;
+            margin-top:20.00pt;
+            margin-bottom:9.00pt;
+            text-align:left;
+            text-indent:0.00pt;
+            line-height:14.00pt;
+            word-spacing:0.25em;
+            hyphens:auto;
+            direction:inherit;
+            color:#000000;
+            font-family:"Futura Book";
+            font-size:14.00pt;
+            font-weight:Bold;
+            font-style:normal;
+            background-color:transparent;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font-stretch:normal;
+            text-transform:none;
+            font-kerning:normal;
 }
 p.heading3 {
             margin-left:0.00pt;

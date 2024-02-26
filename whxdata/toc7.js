@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"A    Software License and Copyright Statements\" url=\"os8_cli/copyright/copyright.htm\"><item name=\"A    Software License and Copyright Statements\" url=\"os8_cli/copyright/Software_License_and_Copyright_Statements.htm\" /></data>";
